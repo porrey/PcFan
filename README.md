@@ -1,2 +1,2 @@
 # pcfan
-This Arduino library allows both th controlling of a PC fan as well as using the fan as a sensor.
+This Arduino library allows monitoring of the speed of a PC fan.
